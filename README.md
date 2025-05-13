@@ -1,4 +1,4 @@
-# GraphRAG4IFC: Natural Language Question Answering over IFC Building Models using LLMs and Graph-RAG
+# Natural Language Question Answering over IFC Building Models using LLMs and Graph-RAG
 This project demonstrates how to use Large Language Models (LLMs) with Graph Retrieval-Augmented Generation to parse and query Industry Foundation Classes (IFC) files. It allows users to ask plain-language questions about BIM data and get accurate answers powered by GPT-4o and a Neo4j graph database.
 
 📄 This repository is part of our paper accepted at **EC³ 2025 (European Conference on Computing in Construction)**.  

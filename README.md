@@ -12,3 +12,15 @@ The system has two main stages:
 
 1. **Graph Generation** – Converts an IFC file into a graph format using IFCOpenShell and stores it in Neo4j.
 2. **LLM-based QA System** – Uses GPT-4o with prompt engineering to answer questions about the IFC model using Cypher queries.
+
+## Requirements
+
+This project requires **Python 3.8 or higher**.
+To install all necessary dependencies, run:
+
+```bash
+pip install -r requirements.txt
+```
+You will also need:
+   * Neo4j Desktop or Neo4j Aura Cloud
+   * An OpenAI API key 

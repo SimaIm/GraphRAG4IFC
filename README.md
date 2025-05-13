@@ -12,7 +12,3 @@ The system has two main stages:
 
 1. **Graph Generation** – Converts an IFC file into a graph format using IFCOpenShell and stores it in Neo4j.
 2. **LLM-based QA System** – Uses GPT-4o with prompt engineering to answer questions about the IFC model using Cypher queries.
-3. **Main Script** – Coordinates the full pipeline from parsing to user interaction.
-
-
-

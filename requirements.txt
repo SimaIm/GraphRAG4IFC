@@ -1,0 +1,7 @@
+ifcopenshell
+networkx
+langchain
+langchain-openai
+langchain-neo4j
+neo4j
+csv
